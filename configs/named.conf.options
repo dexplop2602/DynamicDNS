@@ -1,0 +1,11 @@
+options {
+    directory "/var/cache/bind";
+    listen-on { 127.0.0.1; 192.168.58.10; };
+    allow-query { localhost; 192.168.58.0/24; };
+    recursion yes;
+    forwarders { 8.8.8.8; };
+};
+key "ddns-key" {
+    algorithm hmac-sha256;
+    secret "SECRET_PLACEHOLDER";
+};

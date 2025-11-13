@@ -1,0 +1,4 @@
+$TTL 3600
+@ IN SOA dns.example.test. root.example.test. ( 1 3600 1800 604800 3600 )
+@ IN NS dns.example.test.
+10 IN PTR dns.example.test.

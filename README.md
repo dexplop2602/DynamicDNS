@@ -1,5 +1,3 @@
-Of course, here is a README for your project in English.
-
 # Dynamic DNS (DDNS) Lab with Vagrant
 
 This project sets up a virtual lab environment to demonstrate the functionality of Dynamic DNS (DDNS) using Vagrant, VirtualBox, BIND9 for DNS, and ISC DHCP Server.

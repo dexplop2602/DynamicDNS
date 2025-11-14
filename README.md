@@ -18,8 +18,8 @@ The environment consists of three virtual machines:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository-url>](https://github.com/dexplop2602/DynamicDNS)
-    cd [<repository-url>](https://github.com/dexplop2602/DynamicDNS)
+    git clone https://github.com/dexplop2602/DynamicDNS
+    cd https://github.com/dexplop2602/DynamicDNS
     ```
 
 2.  **Start the virtual environment:**
